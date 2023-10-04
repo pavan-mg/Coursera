@@ -1,7 +1,7 @@
 # Courses 
 
-# Deep Learning Specialization: The Specialization consists of five courses:
-
+# Deep Learning Specialization: 
+The Specialization consists of five courses:
 >Course 1: Neural Networks and Deep Learning
 Week 1: Introduction to Deep Learning
 Week 2: Neural Networks Basics
