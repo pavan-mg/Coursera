@@ -1,29 +1,34 @@
 # Courses 
 
-# Deep Learning Specialization: 
-The Specialization consists of five courses:
->Course 1: Neural Networks and Deep Learning
-Week 1: Introduction to Deep Learning
-Week 2: Neural Networks Basics
-Week 3: Shallow Neural Networks
-Week 4: Deep Neural Networks
+## Deep Learning Specialization by Coursera
+This Specialization is a foundational program that will help you understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology. In this Specialization, you will build and train neural network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, and Transformers and learn how to make them better with strategies such as Dropout, BatchNorm, Xavier/He initialization, and more. Get ready to master theoretical concepts and their industry applications using Python and TensorFlow and tackle real-world cases such as speech recognition, music synthesis, chatbots, machine translation, natural language processing, and more.
 
->Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-Week 1: Practical Aspects of Deep Learning
-Week 2: Optimization algorithms
-Week 3: Hyperparameter tuning, Batch Normalization and Programming Frameworks
+[Course 1: Neural Networks and Deep Learning]()
 
->Course 3: Structuring Machine Learning Projects
-Week 1: ML Strategy (1)
-Week 2: ML Strategy (2)
+Artificial Neural Networks; Deep Learning; Backpropagation; Python programming
 
->Course 4: Convolutional Neural Networks
-Week 1: Foundations of Convolutional Neural Networks
-Week 2: Classic Networks
-Week 3: Object detection
-Week 4: Special applications: Face recognition & Neural style transfer
+[Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization]()
 
->Course 5: Sequence Models
-Week 1: Recurrent Neural Networks
-Week 2: Natural Language Processing & Word Embeddings
-Week 3: Sequence models & Attention mechanism
+Mathematical optimization; Hyperparameter tuning
+
+[Course 3: Structuring Machine Learning Projects]()
+
+Inductive Transfer; Machine Learning; Multi-task learning; Decision-making
+
+[Course 4: Convolutional Neural Networks]()
+
+Facial Recognition system; Convolutional Neural Network architecture; Object Detection and Segmentation
+
+[Course 5: Sequence Models]()
+
+Long Short-Term Memory (LSTM); Gated Recurrent Unit (GRU); Recurrent Neural Networks (RNN); Attention Models
+
+Topics Covered:
+*   Build and train deep neural networks, implement vectorized neural networks, identify architecture parameters, and apply DL to your applications.
+*   Use best practices to train and develop test sets and analyze bias/variance for building DL applications, use standard NN techniques, apply optimization algorithms, and implement a neural network in TensorFlow.
+*   Use strategies for reducing errors in ML systems, understand complex ML settings, and apply end-to-end, transfer, and multi-task learning.
+*   Build a Convolutional Neural Network, apply it to visual detection and recognition tasks, use neural style transfer to generate art, and apply these algorithms to image video, and other 2D/3D data.
+*   Build and train Recurrent Neural Networks and their variants (GRUs, LSTMs), apply RNNs to character-level language modeling, work with NLP and Word Embeddings, and use HuggingFace tokenizers and transformers to perform Named Entity Recognition and question-answering
+
+Course Link: [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+
