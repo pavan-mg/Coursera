@@ -1,4 +1,4 @@
-# Certified Courses
+# Courses 
 
 # Deep Learning Specialization: The Specialization consists of five courses:
 
