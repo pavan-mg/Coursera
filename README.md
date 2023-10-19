@@ -1,6 +1,6 @@
 # Online Courses 
 
-## Deep Learning Specialization by Coursera
+## [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning)
 This Specialization is a foundational program that will help you understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology. In this Specialization, you will build and train neural network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, and Transformers and learn how to make them better with strategies such as Dropout, BatchNorm, Xavier/He initialization, and more. Get ready to master theoretical concepts and their industry applications using Python and TensorFlow and tackle real-world cases such as speech recognition, music synthesis, chatbots, machine translation, natural language processing, and more.
 
 [Course 1: Neural Networks and Deep Learning]()
@@ -30,5 +30,5 @@ Topics Covered:
 *   Build a Convolutional Neural Network, apply it to visual detection and recognition tasks, use neural style transfer to generate art, and apply these algorithms to image video, and other 2D/3D data.
 *   Build and train Recurrent Neural Networks and their variants (GRUs, LSTMs), apply RNNs to character-level language modeling, work with NLP and Word Embeddings, and use HuggingFace tokenizers and transformers to perform Named Entity Recognition and question-answering
 
-Course Link: [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+[Link to Certificate Earned](https://coursera.org/share/5bd816624d1f4396f77b700e8723029a)
 
